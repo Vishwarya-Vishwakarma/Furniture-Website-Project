@@ -1,0 +1,59 @@
+a,
+a:hover {
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: underline yellow;
+    color: var(--primary-color) !important;
+}
+
+
+.content{
+    background-color: #3b5d50;
+    padding: calc(4rem - 30px) 0 0rem 0;
+}
+.navbar-brand{
+    color: #6a6a6a;
+    font-size: 35px;
+}
+
+
+.nav-link{
+    color: #91cab4;
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+ .first1{
+ color: aliceblue;
+ 
+} 
+
+.para1{
+    color: #91cab4;
+}
+
+.pg2{
+    margin-left: 4%;
+}
+.furni-type{
+    padding-top: 3.25em;
+}
+.about-section{
+    background: white;
+}
+
+.help-here{
+    padding-top: 3.25em;
+}
+.many-chairs{
+    padding-top: 3.25em;
+}
+.for-slide{
+    padding-top: 3.25em;
+}
+.recent-blog{
+    padding-top: 3.25em;
+}
